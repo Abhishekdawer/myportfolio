@@ -1,32 +1,32 @@
 {
-    "name": "Bharat Agsrwal",
-    "title": "Full Stack Developer, Mobile Application Developer (iOS and Android) and Cyber Security Researcher",
+    "name": "Shivam",
+    "title": "Full Stack Developer, Mobile Application Developer (iOS and Android),Technology enthusiast",
     "intro": "Some introduction of yours and it can be as much as large",
     "skills": [{
-            "title": "Skill 1",
-            "rating": "90"
+            "title": "React",
+            "rating": "55"
         },
         {
-            "title": "Skill 2",
-            "rating": "97"
+            "title": "JavaScript",
+            "rating": "75"
         },
         {
-            "title": "Skill 3",
-            "rating": "85"
+            "title": "Flutter",
+            "rating": "50"
         },{
-            "title": "Skill 4",
-            "rating": "80"
+            "title": "React Native",
+            "rating": "65"
         },{
-            "title": "Skill 5",
-            "rating": "78"
+            "title": "Html&css",
+            "rating": "65"
         },{
-            "title": "Skill 6",
-            "rating": "90"
+            "title": "Node",
+            "rating": "70"
         }
     ],
     "contact": {
-        "location": "Chandigarh University",
-        "phone": "xxxxxxxxxx",
-        "email": "xxxxxx@xxxx.xxx"
+        "location": "Chitkara University",
+        "phone": "8168386500",
+        "email": "Shivamgarg260@gmail.com"
     }
 }
