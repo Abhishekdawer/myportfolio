@@ -1,7 +1,7 @@
 {
     "name": "Shivam",
     "title": "Full Stack Developer, Mobile Application Developer (iOS and Android),Technology enthusiast",
-    "intro": "Some introduction of yours and it can be as much as large",
+    "intro": "I am a Developer,Specially focused on cross patform technologies...optimistic about learn once run every where",
     "skills": [{
             "title": "React",
             "rating": "55"
@@ -22,6 +22,10 @@
         },{
             "title": "Node",
             "rating": "70"
+        },
+               {
+            "title": "Java",
+            "rating": "50"
         }
     ],
     "contact": {
