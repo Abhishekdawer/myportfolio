@@ -1,36 +1,31 @@
 {
-    "name": "Shivam",
-    "title": "Full Stack Developer, Mobile Application Developer (iOS and Android),Technology enthusiast",
-    "intro": "I am a Developer,Specially focused on cross patform technologies...optimistic about learn once run every where",
-    "skills": [{
-            "title": "React",
-            "rating": "55"
-        },
+    "name": "Abhishek",
+    "title": "Java Developer,Technology enthusiast",
+    "intro": "I am a Developer , who always ready to learn new things",
+    "skills": [
         {
             "title": "JavaScript",
-            "rating": "75"
+            "rating": "65"
         },
-        {
-            "title": "Flutter",
-            "rating": "50"
-        },{
-            "title": "React Native",
-            "rating": "65"
-        },{
-            "title": "Html&css",
-            "rating": "65"
-        },{
-            "title": "Node",
+      {
+            "title": "Html",
             "rating": "70"
+        }, {
+            "title": "CSS",
+            "rating": "55"
+        },
+         {
+            "title": "C++ & C",
+            "rating": "60"
         },
                {
             "title": "Java",
-            "rating": "50"
+            "rating": "60"
         }
     ],
     "contact": {
         "location": "Chitkara University",
-        "phone": "8168386500",
-        "email": "Shivamgarg260@gmail.com"
+        "phone": "7357178612",
+        "email": "abhishekdawer045@gmail.com"
     }
 }
